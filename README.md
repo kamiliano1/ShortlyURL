@@ -76,4 +76,4 @@ I've used only:
 ## Author
 
 - Website - [Kamil Szymon](https://github.com/kamiliano1)
-- Frontend Mentor - [@kamiliano1](hhttps://www.frontendmentor.io/profile/kamiliano1)
+- Frontend Mentor - [@kamiliano1](https://www.frontendmentor.io/profile/kamiliano1)
