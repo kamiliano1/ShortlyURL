@@ -14,6 +14,8 @@ This is a solution to the [Shortly URL shortening API Challenge challenge on Fro
   - [Continued development](#continued-development)
 - [Author](#author)
 
+**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 ## Overview
 
 ### The challenge
@@ -33,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/kamiliano1/ShortlyURL](https://github.com/kamiliano1/ShortlyURL)
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [https://curious-raindrop-52f920.netlify.app/](https://curious-raindrop-52f920.netlify.app/)
 
 ## My process
@@ -76,4 +78,4 @@ I've used only:
 ## Author
 
 - Website - [Kamil Szymon](https://github.com/kamiliano1)
-- Frontend Mentor - [@kamiliano1](https://www.frontendmentor.io/profile/kamiliano1)
+- Frontend Mentor - [@kamiliano1](hhttps://www.frontendmentor.io/profile/kamiliano1)

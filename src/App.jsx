@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Links from './components/Links'
-import Body from './components/Body'
+import Layout from './components/Layout'
 import Footer from './components/Footer'
 function App() {
   const [isOpen, setIsOpen] = useState(false)
@@ -33,14 +33,12 @@ function App() {
       <Navbar 
         toggleNavbar={toogleNavbar}
         navbarStatus={isOpen}
-        currentWidth={windowWidth}
       />
       <Hero 
         navbarStatus={isOpen}
-        currentWidth={windowWidth}
       />
       <Links />
-      <Body />
+      <Layout />
       <Footer />
 
       
